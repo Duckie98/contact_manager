@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Duckie98.github.io/contactmanager",
+  "homepage": "https://duckie98.github.io/contact_manager",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
