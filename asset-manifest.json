@@ -1,13 +1,13 @@
 {
-  "main.js": "/contact_manager/static/js/main.acde2790.chunk.js",
-  "main.js.map": "/contact_manager/static/js/main.acde2790.chunk.js.map",
-  "static/css/1.f9bf29ee.chunk.css": "/contact_manager/static/css/1.f9bf29ee.chunk.css",
-  "static/js/1.ca3e85ff.chunk.js": "/contact_manager/static/js/1.ca3e85ff.chunk.js",
-  "static/js/1.ca3e85ff.chunk.js.map": "/contact_manager/static/js/1.ca3e85ff.chunk.js.map",
-  "runtime~main.js": "/contact_manager/static/js/runtime~main.635860fd.js",
-  "runtime~main.js.map": "/contact_manager/static/js/runtime~main.635860fd.js.map",
-  "static/css/1.f9bf29ee.chunk.css.map": "/contact_manager/static/css/1.f9bf29ee.chunk.css.map",
+  "main.js": "/contact_manager/static/js/main.05f2f2d5.chunk.js",
+  "main.js.map": "/contact_manager/static/js/main.05f2f2d5.chunk.js.map",
+  "runtime~main.js": "/contact_manager/static/js/runtime~main.d391e706.js",
+  "runtime~main.js.map": "/contact_manager/static/js/runtime~main.d391e706.js.map",
+  "static/css/2.c71644b2.chunk.css": "/contact_manager/static/css/2.c71644b2.chunk.css",
+  "static/js/2.c559cc69.chunk.js": "/contact_manager/static/js/2.c559cc69.chunk.js",
+  "static/js/2.c559cc69.chunk.js.map": "/contact_manager/static/js/2.c559cc69.chunk.js.map",
   "index.html": "/contact_manager/index.html",
-  "precache-manifest.37264eaadcbb3b88832da97977733391.js": "/contact_manager/precache-manifest.37264eaadcbb3b88832da97977733391.js",
-  "service-worker.js": "/contact_manager/service-worker.js"
+  "precache-manifest.b1d6b3bba32ddee43e2b33bbd96a413f.js": "/contact_manager/precache-manifest.b1d6b3bba32ddee43e2b33bbd96a413f.js",
+  "service-worker.js": "/contact_manager/service-worker.js",
+  "static/css/2.c71644b2.chunk.css.map": "/contact_manager/static/css/2.c71644b2.chunk.css.map"
 }
